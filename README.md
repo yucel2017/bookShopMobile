@@ -1,3 +1,14 @@
+Prewiew;
+https://github.com/yucel2017/bookShopMobile/assets/126460768/04144887-1e22-4830-8561-cd4539908943
+
+
+
+
+
+
+
+
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
