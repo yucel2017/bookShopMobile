@@ -1,4 +1,4 @@
-
+This is a user interface design for a book selling application. The development is done using React Native. It provides a main screen where books are listed, a cart page, and functionality to add and reduce items in the cart. Navigation between pages is made easier using the Navigation package, and application state management is facilitated using Redux. You can find the project on GitHub as an example of a user interface design that is open for further development.
 
 https://github.com/yucel2017/bookShopMobile/assets/126460768/04144887-1e22-4830-8561-cd4539908943
 
